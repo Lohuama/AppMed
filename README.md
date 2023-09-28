@@ -1,15 +1,10 @@
-<h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".images/demo.gif" width="400px" />
-</h1>
-![Demonstração do App](.images/demo.gif)
-
+![Demonstração do App](./images/demo.gif)
 
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
-	AppMed
+    AppMed
 </h4>
-
 
 ## :information_source: O que é o AppMed?
 
@@ -17,11 +12,9 @@ O AppMed é uma aplicação feita em React Native que simula um aplicativo de co
 
 Esse projeto é utilizado na formação base de React Native da plataforma da Alura.
 
-
 <h1 align="center">
-    <img alt="Demonstracao" title="Demonstracao" src=".images/demo.gif" width="400px" />
+    <img alt="Demonstracao" title="Demonstracao" src="./images/demo.gif" width="400px" />
 </h1>
-
 
 ## :rocket: Tecnologias
 
@@ -31,7 +24,7 @@ Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
 
 ## :information_source: Como usar
 
-Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] intalados no seu computador.
+Para copiar e executar essa aplicação, você precisa de três pré-requisitos: [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] instalados no seu computador.
 
 No terminal, digite os comandos a seguir:
 
@@ -41,26 +34,8 @@ No terminal, digite os comandos a seguir:
 # Clonar esse repositório
 $ git clone https://github.com/alura-cursos/react-native-animacoes.git
 
-# Vá para o ropositório
+# Vá para o repositório
 $ cd AluraMed
 
 # Instale as dependências
 $ npm install
-```
-
-### Executar o Mobile
-
-```bash
-# Execute em outro terminal (dentro da pasta AluraMed)
-$ expo start
-```
-
-
-
-Espero que você utilize ao máximo deste projeto para se aprimorar! E se quiser dar um salve, estou lá no LinkedIn [André Oliveira Cunha](https://www.linkedin.com/in/andr%C3%A9-oliveira-cunha-b26b3a156/). :wave: 
-
-[nodejs]: https://nodejs.org/
-[expo]: https://docs.expo.dev/
-[rn]: https://facebook.github.io/react-native/
-[yarn]: https://yarnpkg.com/
-# AppMed
