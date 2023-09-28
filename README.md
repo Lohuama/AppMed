@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img alt="Animacoes" title="#Animacoes" src=".images/demo.gif" width="100%" />
+    <img alt="Demonstracao" title="Demonstracao" src=".images/demo.gif" width="400px" />
 </h1>
+
 
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
