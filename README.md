@@ -6,18 +6,13 @@
 <!-- https://alura-github-thumbnail-generator.vercel.app/ -->
 
 <h4 align="center"> 
-	AluraMed
+	AppMed
 </h4>
 
-<p align="center">
-  <a href="#information_source-o-que-é-o-aluramed">O que é o AluraMed?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
 
-## :information_source: O que é o AluraMed?
+## :information_source: O que é o AppMed?
 
-O AluraMed é uma aplicação feita em React Native que simula um aplicativo de consultas médicas. A ideia é usar animações nesse projeto para tornar a aplicação mais agradável e intuitiva.
+O AppMed é uma aplicação feita em React Native que simula um aplicativo de consultas médicas. A ideia é usar animações nesse projeto para tornar a aplicação mais agradável e intuitiva.
 
 Esse projeto é utilizado na formação base de React Native da plataforma da Alura.
 
